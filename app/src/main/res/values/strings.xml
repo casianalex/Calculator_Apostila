@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Calculator Apostila</string>
+
+    <string name="hello_world">Introduceti numarul de documente</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="nr_documente">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+
+
+
+</resources>
